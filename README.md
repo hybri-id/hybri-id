@@ -1,4 +1,4 @@
-### Yup! I'm Out 👋
+
 
 <!--
 **hybri-id/hybri-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ryo-ma trophy](https://github-profile-trophy.vercel.app/?username=hybri-id&theme=darkhub&no-frame=true)](https://github.com/hybri-id)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/hybri-id/xampp_tools">
+    <img src="H.png" alt="Logo" width="80" height="80">
+  </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
+  <h3 align="center"> Yup! I'm Out 👋 </h3>
 
-[![XAMPP TOOLS](https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools)](https://github.com/hybri-id/xampp_tools)
+  <p align="center">
+    
+  [![ryo-ma trophy](https://github-profile-trophy.vercel.app/?username=hybri-id&theme=darkhub&no-frame=true)](https://github.com/hybri-id)
 
-[![NTPSYNC](https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync)](https://github.com/hybri-id/ntpsync)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
+
+  <a href="https://github.com/hybri-id/xmpp_tools">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools" />
+  </a>
+  <a href="https://github.com/hybri-id/ntpsync">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync" />
+  </a>
+  </p>
+</div>
