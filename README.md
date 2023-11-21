@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <h1 align="center"> Yup! I'm Out 👋 </h1>
 
-  ![](https://komarev.com/ghpvc/?username=hybri-id&color=violetblue)
+  ![](https://komarev.com/ghpvc/?username=hybri-id&color=blueviolet)
   
   <a href="https://github.com/hybri-id">
     <img src="H.png" alt="Logo" width="80" height="80">
