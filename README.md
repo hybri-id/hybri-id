@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <div align="center">
 
-  <h2 align="center"> Yup! I'm Out 👋 </h2>
+  <h1 align="center"> Yup! I'm Out 👋 </h1>
   <a href="https://github.com/hybri-id/xampp_tools">
     <img src="H.png" alt="Logo" width="80" height="80">
   </a>
