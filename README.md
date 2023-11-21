@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yup! I'm Out 👋
 
 <!--
 **hybri-id/hybri-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=hybri-id&theme=darkhub&no-frame=true)](https://github.com/hybri-id)
