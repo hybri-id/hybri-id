@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=hybri-id&theme=darkhub&no-frame=true)](https://github.com/hybri-id)
+[![ryo-ma trophy](https://github-profile-trophy.vercel.app/?username=hybri-id&theme=darkhub&no-frame=true)](https://github.com/hybri-id)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
+
+[![XAMPP TOOLS](https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools)](https://github.com/hybri-id/xampp_tools)
+
+[![NTPSYNC](https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync)](https://github.com/hybri-id/ntpsync)
