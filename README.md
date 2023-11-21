@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/hybri-id/ntpsync">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync" />
   </a>
-  </br>
+  <br />
+  <br />
   <a href="https://github.com/hybri-id/scaling-fiesta">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=scaling-fiesta" />
   </a>
