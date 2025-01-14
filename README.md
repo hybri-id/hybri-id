@@ -1,5 +1,3 @@
-
-
 <!--
 **hybri-id/hybri-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,14 +31,15 @@ Here are some ideas to get you started:
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
 
   <a href="https://github.com/hybri-id/xampp_tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools"/>
   </a>
   <a href="https://github.com/hybri-id/ntpsync">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync"/>
   </a>
   <br />
+  <br />
   <a href="https://github.com/hybri-id/scaling-fiesta">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=scaling-fiesta" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=scaling-fiesta"/>
   </a>
   </p>
 </div>
