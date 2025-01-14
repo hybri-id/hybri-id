@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
 
+<!-- PROJECTS 
   <a href="https://github.com/hybri-id/xampp_tools">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools"/>
   </a>
+  <br />
+  <br />
   <a href="https://github.com/hybri-id/ntpsync">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=ntpsync"/>
   </a>
@@ -43,3 +46,4 @@ Here are some ideas to get you started:
   </a>
   </p>
 </div>
+-->
