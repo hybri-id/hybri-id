@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
-  <h1 align="center"> Yup! I'm Out 👋 </h1>
-
-  ![](https://komarev.com/ghpvc/?username=hybri-id&color=blueviolet)
   
   <a href="https://github.com/hybri-id">
     <img src="H.png" alt="Logo" width="80" height="80">
   </a>
+  <h1 align="center"> Yup! I'm Out 👋 </h1>
+
+  <p>I am a software developer and system administrator. Self-taught, I do this as a hobby as well as a profession. I like to write clean code and designing GUIs so I work in backcends aswell as frontends. Hope you have had a good day!</p></br>
 
   <p align="center">
     
@@ -30,6 +29,9 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybri-id&show_icons=true&theme=transparent)
 
+  🐱👤
+  
+  ![](https://komarev.com/ghpvc/?username=hybri-id&color=blueviolet)
 <!-- PROJECTS 
   <a href="https://github.com/hybri-id/xampp_tools">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hybri-id&repo=xampp_tools"/>
